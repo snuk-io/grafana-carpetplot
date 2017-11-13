@@ -6,7 +6,7 @@
   "scripts": {
     "build": "grunt"
   },
-  "author": "Petr Slavotinek",
+  "author": "Petr Slavotinek, Moa Ziegler",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -27,6 +27,7 @@
     "grunt-contrib-uglify": "^3.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-execute": "^0.2.2",
+    "grunt-exec": "^2.0.0",
     "grunt-systemjs-builder": "^1.0.0",
     "load-grunt-tasks": "^3.5.2"
   },

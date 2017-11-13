@@ -1,17 +1,19 @@
 {
   "type": "panel",
   "name": "Carpet plot",
-  "id": "petrslavotinek-carpetplot-panel",
+  "id": "snuk-io-carpetplot-panel",
 
   "info": {
     "description": "Carpet plot panel plugin for grafana",
     "author": {
-      "name": "Petr Slavotinek - ENESA a.s.",
-      "url": "http://www.enesa.cz"
+      "name": "Petr Slavotinek, Moa Ziegler"
     },
+    "links": [
+      {"name": "Snuk", "url": "https://www.snuk.io"}
+    ],
     "keywords": ["carpet", "plot", "panel"],
-    "version": "0.0.4",
-    "updated": "2017-09-05",
+    "version": "<%= version_string %>",
+    "updated": "<%= build_time %>",
     "logos": {
       "small": "src/img/logo.svg",
       "large": "src/img/logo.svg"
